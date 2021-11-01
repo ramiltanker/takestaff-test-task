@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/takestaff-test-task/static/css/main.5a0ce66d.chunk.css",
+    "main.js": "/takestaff-test-task/static/js/main.7972184a.chunk.js",
+    "main.js.map": "/takestaff-test-task/static/js/main.7972184a.chunk.js.map",
+    "runtime-main.js": "/takestaff-test-task/static/js/runtime-main.21e94528.js",
+    "runtime-main.js.map": "/takestaff-test-task/static/js/runtime-main.21e94528.js.map",
+    "static/js/2.b78ccb1e.chunk.js": "/takestaff-test-task/static/js/2.b78ccb1e.chunk.js",
+    "static/js/2.b78ccb1e.chunk.js.map": "/takestaff-test-task/static/js/2.b78ccb1e.chunk.js.map",
+    "static/js/3.34faf086.chunk.js": "/takestaff-test-task/static/js/3.34faf086.chunk.js",
+    "static/js/3.34faf086.chunk.js.map": "/takestaff-test-task/static/js/3.34faf086.chunk.js.map",
+    "index.html": "/takestaff-test-task/index.html",
+    "static/css/main.5a0ce66d.chunk.css.map": "/takestaff-test-task/static/css/main.5a0ce66d.chunk.css.map",
+    "static/js/2.b78ccb1e.chunk.js.LICENSE.txt": "/takestaff-test-task/static/js/2.b78ccb1e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/takestaff-test-task/static/media/MontserratThin.ce1cf12f.eot",
+    "static/media/Card.module.css": "/takestaff-test-task/static/media/save-changes.d2c3aa2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e94528.js",
+    "static/js/2.b78ccb1e.chunk.js",
+    "static/css/main.5a0ce66d.chunk.css",
+    "static/js/main.7972184a.chunk.js"
+  ]
+}
