@@ -1,0 +1,32 @@
+@keyframes rotate-loader {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loader-appear,
+.loader-enter {
+  opacity: 0;
+}
+
+.loader-appear-active,
+.loader-enter-active {
+  opacity: 1;
+  animation: rotate-loader 0.5s infinite;
+}
+.loader-exit {
+  opacity: 1;
+}
+
+.loader-exit,
+.loader-exit-active {
+  opacity: 0;
+}
+
+.loader-exit-done {
+  opacity: 0;
+}

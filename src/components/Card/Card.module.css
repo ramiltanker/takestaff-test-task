@@ -1,0 +1,83 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 600px;
+  min-height: 200px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #01a7fd;
+  border-radius: 15px;
+  word-break: break-all;
+  margin-bottom: 50px;
+}
+
+.card:last-of-type {
+  margin-bottom: 0;
+}
+
+.input {
+  width: 550px;
+  height: auto;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  border-width: 2px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-style: solid;
+  border-color: black;
+  padding-bottom: 2px;
+  outline: none;
+  background-color: white;
+}
+
+.button {
+  cursor: pointer;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  opacity: 1;
+  transition: opacity 0.3s linear;
+}
+
+.button:hover {
+  opacity: 0.6;
+  transition: opacity 0.3s linear;
+}
+
+.button_delete {
+  top: 0;
+  right: -40px;
+  composes: button;
+  background-image: url(../../assets//icons/delete-icon.svg);
+}
+
+.button_edit {
+  top: 40px;
+  right: -42px;
+  composes: button;
+  background-image: url(../../assets//icons/edit-icon.svg);
+}
+
+.button_save {
+  top: 80px;
+  right: -42px;
+  composes: button;
+  background-image: url(../../assets//icons/save-changes.svg);
+}
