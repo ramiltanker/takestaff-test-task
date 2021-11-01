@@ -17,3 +17,5 @@
 3. TypeScript
 4. Styled Components
 5. React Transition Group
+
+## Приложение можно просмотреть по [ссылке](https://ramiltanker.github.io/takestaff-test-task/)
