@@ -19,3 +19,8 @@
 5. React Transition Group
 
 ## Приложение можно просмотреть по [ссылке](https://ramiltanker.github.io/takestaff-test-task/)
+
+## Логин и пароль для авторизации
+
+1. test@mail.ru
+2. 12345
